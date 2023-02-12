@@ -17,4 +17,10 @@ We plan on making a chrome extension that will not only read the content of the 
 
 We are also planning to enable navigation based on user's voice input.
 
+#Tech Stack Used
+* Selenium for web Automation
+* CSS/HTML/Bootstrap for Frontend web extension page
+* JavaScript for Web extension
+* CNN Model for image feature extraction
+* LSTM Model for Natural Language Processing
 
