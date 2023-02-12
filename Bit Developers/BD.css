@@ -1,0 +1,20 @@
+#top{
+    background-color: #5ce1e6;
+    color: #444648;
+    font-weight:bolder;
+}
+#bottom{
+    background-color: #f3722c;
+}
+#aboutcardh{
+    background-color: #cbf3f0;
+}
+#overview , #preface , #tech-stack , #team{
+    background-color: #ff9f1c;
+} 
+#a,#b,#c,#d{
+    background-color: #ffbf69;
+}
+body{
+    color:#444648;
+}
