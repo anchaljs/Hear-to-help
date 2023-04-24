@@ -24,3 +24,7 @@ We are also planning to enable navigation based on user's voice input.
 * CNN Model for image feature extraction
 * LSTM Model for Natural Language Processing
 
+#Future Scope
+* We plan to integrate all the components to prepare a fully functional extension
+* We plan on publishing the complete web extension on Chrome Web Store
+* Web automation across all websites
